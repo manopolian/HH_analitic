@@ -65,7 +65,7 @@
 
 ## Авторы
 
-* Маноенко Полина Анатольевна, [телеграмм](https://github.com/manopolian/HH_analitic/blob/main/plotly/qr_tmp.jpg)
+* Иванова Антонина Анатольевна, [телеграмм](https://github.com/manopolian/HH_analitic/blob/main/plotly/qr_tmp.jpg)
 
 
 ## Выводы
